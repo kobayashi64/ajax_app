@@ -7,12 +7,12 @@
     "@rails/ujs": "^6.0.0",
     "@rails/webpacker": "4.3.0",
     "turbolinks": "^5.2.0"
-  },
+ },
   "version": "0.1.0",
   "devDependencies": {
     "webpack-dev-server": "^3.11.0"
-    },  // ここにカンマを記述
+ },
     "engines" : {
-      "node": "14.19.0"  // ここに先ほど確認したバージョンを記述
-    }
+      "node": "14.19.0"
+ }
 }
